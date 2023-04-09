@@ -1,0 +1,8 @@
+node_modules/
+speeches/
+results/
+# Ignore everything in the 'results' folder
+resources/*
+
+# Except the '.gitkeep' file
+!resources/.gitkeep
